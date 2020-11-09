@@ -1,5 +1,5 @@
 {
-  "name": "fancy-text-parser",
+  "name": "song-recognition",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
